@@ -42,7 +42,7 @@ export const Home = () => {
           onChange={(e) => setCode(e.target.value)}
         />
         <Link to={`/airports/iata/${code}`} key={code}>
-          Find Airport
+          &nbsp;Find Airport
         </Link>
       </div>
     </>
