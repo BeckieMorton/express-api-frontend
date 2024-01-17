@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="">
-    <img src="/src/assets/custom-hooks.svg" alt="Project Banner Image">
-  </a>
-</h1>
+
 
 # Frontend AND backend of my Express API project - Strech goals
 
@@ -23,6 +19,3 @@ This is the combination of my Express API backend project and a new frontend I c
 
 My frontend: https://wk13-iata-airportfinder-6b4f7f.netlify.app/
 
-### Screenshots
-
-![Screenshot of Home page](/public//screenshot1.png?raw=true "Screenshot of Home page") ![Screenshot of Result page](/public//screenshot2.png?raw=true "Screenshot of Result page")
